@@ -9,7 +9,7 @@ import { AsyncPipe, DatePipe, NgIf } from "@angular/common";
 @Component({
   selector: "app-article-comment",
   template: `
-    @if (comment) {
+    @if (comment) {орооро
       <div class="card">
         <div class="card-block">
           <p class="card-text">
